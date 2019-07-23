@@ -1,5 +1,0 @@
-This is first file for git
-some more changes
-again some more changes
-again some more changes from test branch.
-test push

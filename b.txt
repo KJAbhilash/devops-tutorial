@@ -2,3 +2,4 @@ This is second file for git
 added from server
 some change
 again some more change
+some commit
